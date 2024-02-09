@@ -43,4 +43,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 7. Go to Admin Panel -> Manage -> SLA -> Add New SLA Plan. Name your new SLA Plan "SEV-A", set the schedule (business hours, 24/7, etc.), set the grace period (how long you have to complete the ticket), and click Add Plan. *Repeat this step as many times as needed to add more SLA Plans*
 
-8. Go to Manage -> Help Topics -> Add New Help Topic. Add the topic name and choose the parent topic (i.e. how important it is).
+8. Go to Manage -> Help Topics -> Add New Help Topic. Add the topic name (i.e Password Reset, Equipment Request, Business Critical Outage, etc.) and choose the parent topic (i.e. how important it is).
